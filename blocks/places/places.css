@@ -1,0 +1,35 @@
+.places {
+    margin: 92px 100px 0;
+    /*margin: 92px auto 0;
+    width: calc(100% - 200px);*/
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 1279px) {
+    .places {
+        margin: 92px 48px 0;
+        /*width: calc(100% - 96px); */
+    }
+}
+
+@media screen and (max-width: 1184px) {
+    .places {
+        margin: 92px 48px 0;
+        
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .places {
+        margin: 88px 24px 0
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .places {
+        margin: 64px 0 0;
+
+    }
+}
