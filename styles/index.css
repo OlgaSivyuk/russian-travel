@@ -1,0 +1,72 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+
+/* ссылки */
+@import url(../blocks/link/link.css);
+
+/* ШАПКА */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo-wrap/header__logo-wrap.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__links-wrap/header__links-wrap.css);
+@import url(../blocks/header/__lang-link/header__lang-link_en.css);
+@import url(../blocks/header/__lang-link/header__lang-link_ru.css);
+@import url(../blocks/header/__lang-link/header__lang-link.css);
+
+/* блок контента */
+@import url(../blocks/content/content.css);
+
+/* рамка обложки */
+@import url(../blocks/lead/lead.css);
+/* заголовок и подзаголовок */
+@import url(../blocks/lead/__title/lead__title.css);
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
+/* картинка */
+@import url(../blocks/lead/__image/lead__image.css);
+/* подпись */
+@import url(../blocks/lead/__caption/lead__caption.css);
+
+/* рамка вступления */
+@import url(../blocks/intro/intro.css);
+/* заголовок и подзаголовок */
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__text/intro__text.css);
+/* список */
+@import url(../blocks/list/list.css);
+@import url(../blocks/list/__description/list__description.css);
+@import url(../blocks/list/__span-accent/list__span-accent.css);
+@import url(../blocks/list/__text/list__text.css);
+
+/* блок с галлереей */
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
+@import url(../blocks/photo-grid/__image/photo-grid__image.css);
+
+/* 5 карточек с местами */
+@import url(../blocks/places/places.css);
+@import url(../blocks/places/__card/place__card.css);
+@import url(../blocks/places/__title/place__title.css);
+@import url(../blocks/places/__website/place__website.css);
+@import url(../blocks/places/__url/place__url.css);
+@import url(../blocks/places/__link/place__link.css);
+@import url(../blocks/places/__paragraph/place__paragraph.css);
+@import url(../blocks/places/__image/place__image.css);
+
+/* обложка-ссылка на проект */
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__item/cover__item.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
+
+/* футтер */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__author/footer__author.css);
+@import url(../blocks/footer/__links-wrap/footer__links-wrap.css);
+@import url(../blocks/footer/__link/footer__link.css);
+
+/* размеры страницы*/
+@import url(../blocks/page/page.css);
+
+/* стили ко всей странице*/
+@import url(../blocks/body/body.css);
+
