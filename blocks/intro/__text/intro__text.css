@@ -1,22 +1,22 @@
 .intro__text {
-    font-size: 16px;
-    line-height: 26.08px;
-    text-align: left;
-    font-style: normal;
-    font-weight: 400;
-    margin: 0 0 33px;
+  font-size: 16px;
+  line-height: 26.08px;
+  text-align: left;
+  font-style: normal;
+  font-weight: 400;
+  margin: 0 0 33px;
 }
 
 @media screen and (max-width: 1023px) {
-    .intro__text {
-        padding: 0 24px 0;
-    }
+  .intro__text {
+    padding-left: 24px;
+  }
 }
 
 @media screen and (max-width: 767px) {
-    .intro__text {
-        font-size: 16px;
-        line-height: 26.08px;
-        padding: 0 16px 0;
-    }
+  .intro__text {
+    font-size: 16px;
+    line-height: 26.08px;
+    padding-left: 16px;
+  }
 }

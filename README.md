@@ -12,7 +12,7 @@
 * медиа-запросы
   
 ____   
-[Ссылка на проект](https://github.com/OlgaSivyuk/russian-travel)  
+[Ссылка на проект](https://olgasivyuk.github.io/russian-travel/)  
 
 ____ 
 **Что планируется улучшить:**
