@@ -42,7 +42,6 @@
 
 /* 5 карточек с местами */
 @import url(../blocks/place/place.css);
-@import url(../blocks/place/__card/place__card.css);
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__website/place__website.css);
 @import url(../blocks/place/__url/place__url.css);
