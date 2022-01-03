@@ -4,6 +4,7 @@
   line-height: 12px;
   font-weight: 400;
   font-style: normal;
-  letter-spacing: calc(1em / 5);
+  letter-spacing: 2px;
+  text-transform: uppercase;
   color: #AAAAAA;
 }

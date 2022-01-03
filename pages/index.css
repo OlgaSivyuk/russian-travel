@@ -9,7 +9,7 @@
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__item/header__item.css);
 @import url(../blocks/header/__links/header__links.css);
-@import url(../blocks/header/__link/header__link_active.css);
+@import url(../blocks/header/__link/_active/header__link_active.css);
 @import url(../blocks/header/__link/header__link.css);
 
 /* блок контента */
@@ -43,6 +43,7 @@
 /* 5 карточек с местами */
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__title/_transfer/place__title_transfer.css);
 @import url(../blocks/place/__website/place__website.css);
 @import url(../blocks/place/__url/place__url.css);
 @import url(../blocks/place/__link/place__link.css);
