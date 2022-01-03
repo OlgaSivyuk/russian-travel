@@ -1,3 +1,5 @@
 .header__link_active {
-  border-bottom: #ffffff solid 3px;
+  border-bottom: #ffffff solid 2px;
+  /* используя text-decoration, линия прижимается к нижней границе букв. Оставила bordr, но уменьшила толщину до 2px 
+  text-decoration: underline;*/
 }
